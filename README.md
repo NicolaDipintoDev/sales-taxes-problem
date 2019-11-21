@@ -1,5 +1,5 @@
 
-# run the code
+# Instructions
 
 follow this simple guide to import this project into ECLIPSE:  
   https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse  
