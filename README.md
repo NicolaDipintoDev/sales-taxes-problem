@@ -9,7 +9,7 @@ Basic sales tax is applicable at a rate of 10% on all goods, except books, food,
 When I purchase items I receive a receipt which lists the name of all the items and their price (including tax), finishing with the total cost of the items, and the total amounts of sales taxes paid. The rounding rules for sales tax are that for a tax rate of n%, a shelf price of p contains (np/100 rounded up to the nearest 0.05) amount of sales tax.
 
 Write an application that prints out the receipt details for these shopping baskets...
-
+```
 INPUT:
 
 Input 1:
@@ -49,7 +49,7 @@ Output 3:
 3 imported box of chocolates: 35.55
 Sales Taxes: 7.90
 Total: 98.38
-
+```
 # General requirements
 
 You may use whatever programming language/platform you prefer. Use something that you know well.
