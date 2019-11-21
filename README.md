@@ -1,3 +1,18 @@
+
+# run the code
+
+follow this simple guide to import this project into ECLIPSE:
+  https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse
+ 
+ALTERNATIVE
+
+1)download project
+2)open ELICPSE
+3)new JAVA project
+4)remove the tick form "use default location"
+5)browse where you have downloaded the project
+6)click finish
+
 # Sales taxes problem
 
 This problem requires some kind of input. You are free to implement any mechanism for feeding input into your solution (for example, using hard coded data within a unit test). You should provide sufficient evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data.
